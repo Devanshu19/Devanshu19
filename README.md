@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Scyther and Scizor have the same base stat total.
 
 <details>
-  <summary><h2> Statistics : <i>Click to reveal</i></h2></summary>
+  <summary><h2> Statistics : </h2>  <i>Click to reveal</i></summary>
   <br>
   
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=devanshu19&count_private=true&show_icons=true&theme=onedark)
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </details>
   
 <details>
-  <summary><h2>Top Repos : <i>Click to reveal</i></h2></summary>
+  <summary><h2>Top Repos : </h2> <i>Click to reveal</i></summary>
   <br>
     
 <a href="https://github.com/anuraghazra/github-readme-stats">
