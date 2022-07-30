@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Discord](https://discord.com/users/734754644286504991/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Scyther and Scizor have the same base stat total.
--->
 
 <details>
   <summary><h2> Statistics : <i>Click to reveal</i></h2></summary>
