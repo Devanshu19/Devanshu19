@@ -11,16 +11,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Scyther and Scizor have the same base stat total.
 -->
 
-## Statistics : 
+<details>
+  <summary><h2> Statistics : <i>Click to reveal</i></h2></summary>
+  <br>
+  
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=devanshu19&count_private=true&show_icons=true&theme=onedark)
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshu19&layout=compact&theme=onedark)
-
-## Top Repos : 
-
+</details>
+  
+<details>
+  <summary><h2>Top Repos : <i>Click to reveal</i></h2></summary>
+  <br>
+    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aerial-ace&repo=aerial-ace&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devanshu19&repo=spelunkylevelmaker&theme=onedark" />
 </a>
+    </details>
