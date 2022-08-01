@@ -14,9 +14,9 @@ Here are some ideas to get you started:
   <summary><h2> Statistics : </h2>  <i>Click to reveal</i></summary>
   <br>
   
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=devanshu19&count_private=true&show_icons=true&theme=onedark)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=devanshu19&count_private=true&show_icons=true)
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshu19&layout=compact&theme=onedark)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshu19&layout=compact)
 </details>
   
 <details>
@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   <br>
     
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aerial-ace&repo=aerial-ace&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aerial-ace&repo=aerial-ace" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devanshu19&repo=spelunkylevelmaker&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devanshu19&repo=spelunkylevelmaker" />
 </a>
     </details>
