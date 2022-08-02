@@ -23,10 +23,10 @@ Here are some ideas to get you started:
   <summary><h2>Top Repos : </h2> <i>Click to reveal</i></summary>
   <br>
     
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/aerial-ace/aerial-ace/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aerial-ace&repo=aerial-ace" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Devanshu19/spelunkylevelmaker/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devanshu19&repo=spelunkylevelmaker" />
 </a>
     </details>
