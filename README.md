@@ -2,13 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Aerial-Ace](https://aerial-ace.github.io/) and other private projects.
-- 🌱 I’m currently learning Bot Development on Discord.
-- 👯 I’m looking to collaborate on idk, [aerial-ace](https://github.com/aerial-ace/aerial-ace/) maybe.
-- 💬 Ask me about Pokemon..... and programming.
-- 📫 How to reach me: [Discord](https://discord.com/users/734754644286504991/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Scyther and Scizor have the same base stat total.
+![Matrices](https://metrics.lecoq.io/Devanshu19?template=classic&languages=1&isocalendar=1&activity=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=&pagespeed.detailed=false&pagespeed.screenshot=false)
+
+<!--
 
 <details>
   <summary><h2> Statistics : </h2>  <i>Click to reveal</i></summary>
@@ -18,7 +14,6 @@ Here are some ideas to get you started:
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshu19&layout=compact)
 </details>
-  
 <details>
   <summary><h2>Top Repos : </h2> <i>Click to reveal</i></summary>
   <br>
@@ -30,3 +25,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devanshu19&repo=spelunkylevelmaker" />
 </a>
     </details>
+-->
+
+![Impressions](https://komarev.com/ghpvc/?username=Devanshu19)
